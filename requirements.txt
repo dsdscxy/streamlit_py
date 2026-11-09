@@ -1,0 +1,7 @@
+streamlit
+zhipuai
+langchain
+langchain-core
+langchain-chroma
+chromadb
+pydantic
